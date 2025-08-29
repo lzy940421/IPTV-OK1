@@ -1,7 +1,7 @@
 
 # IPTV频道管理工具
 
-![IPTV标志](https://socialify.git.ci/cnliux/tv/image?description=1&descriptionEditable=IPTV%20%E7%9B%B4%E6%92%AD%E6%BA%90&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Auto)
+![IPTV标志](https://socialify.git.ci/cnliux/TV/image?description=1&descriptionEditable=IPTV%20%E7%9B%B4%E6%92%AD%E6%BA%90&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Auto)
 
 ------------
 ## 📌 免责声明​
@@ -59,6 +59,7 @@
 - ├── requirements.txt            # 依赖库清单
 - └── README.md                   # 项目文档
 ### 典型工作流程
+```mermaid
 graph TD
     A[main.py] --> B[获取订阅源]
     B --> C[解析频道数据]
@@ -66,4 +67,6 @@ graph TD
     D --> E[速度测试]
     E --> F[结果导出]
     F --> G[生成播放列表]
+
+
 
