@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/cnliux/tv/refs/heads/main/outputs/all.m3u
 https://raw.githubusercontent.com/cnliux/IP99999/main/ipv4.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://raw.githubusercontent.com/qy1987/TV1999/refs/heads/main/outputs/all.m3u
