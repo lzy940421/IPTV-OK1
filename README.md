@@ -60,28 +60,10 @@
 - └── README.md                   # 项目文档
 ### 典型工作流程
 graph TD
-A[原始订阅源] --> B(解析频道)
-B --> C{去重处理}
-C --> D[黑名单过滤]
-D --> E[智能分类]
-E --> F[[测速测试]]
-F --> G[结果重组]
+    A[main.py] --> B[获取订阅源]
+    B --> C[解析频道数据]
+    C --> D[智能分类]
+    D --> E[速度测试]
+    E --> F[结果导出]
+    F --> G[生成播放列表]
 
-subgraph 扩展功能
-    H[EPG采集与匹配]
-    I[多订阅源合并]
-    J[自动化与发布]
-    K[Web管理界面]
-end
-
-G --> J
-H --> G
-I --> B
-
-J --> L[最终导出]
-L --> M[播放器使用]
-
-style H fill:#f9f,stroke:#333,stroke-width:2px
-style I fill:#ccf,stroke:#333,stroke-width:2px
-style J fill:#9f9,stroke:#333,stroke-width:2px
-style K fill:#f96,stroke:#333,stroke-width:2px
