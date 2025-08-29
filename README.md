@@ -59,7 +59,7 @@
 - ├── requirements.txt            # 依赖库清单
 - └── README.md                   # 项目文档
 ### 典型工作流程
-graph
+graph TD
 A[main.py] --> B(解析频道)
 B --> C{去重处理}
 C --> D[黑名单过滤]
