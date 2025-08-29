@@ -2,8 +2,8 @@ name: 每日自动更新
 
 on:
   schedule:
-    # 每天北京时间早上6点运行 (UTC时间22点)
-    - cron: '0 22 * * *'
+    # 每天北京时间早上1点运行
+    - cron: '0 17 * * *'
   
   # 支持手动触发工作流
   workflow_dispatch:
