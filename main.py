@@ -170,6 +170,7 @@ def print_start_page(config: configparser.ConfigParser, logger: logging.Logger):
     fetcher_concurrency = config.getint('FETCHER', 'concurrency', fallback=5)
     tester_timeout = config.getfloat('TESTER', 'timeout', fallback=10)
     tester_concurrency = config.getint('TESTER', 'concurrency', fallback=8)
+    tester_logging = config.getboolean('TESTER', 'enable_logging', fallback=False)  # 新增测速日志开关
     enable_history = config.getboolean('EXPORTER', 'enable_history', fallback=False)
     log_level = config.get('LOGGING', 'log_level', fallback='INFO').upper()
     
@@ -203,6 +204,7 @@ def print_start_page(config: configparser.ConfigParser, logger: logging.Logger):
 ║  • 输出目录: {output_dir.ljust(46)}║
 ║  • 抓取并发数: {str(fetcher_concurrency).ljust(3)} 超时: {str(fetcher_timeout).ljust(4)}秒          ║
 ║  • 测速并发数: {str(tester_concurrency).ljust(3)} 超时: {str(tester_timeout).ljust(4)}秒          ║
+║  • 测速日志: {'启用' if tester_logging else '禁用'.ljust(45)}║
 ║  • 历史记录: {'启用' if enable_history else '禁用'.ljust(45)}║
 ║  • 日志级别: {log_level.ljust(46)}║
 ╚══════════════════════════════════════════════════════╝
@@ -248,7 +250,7 @@ async def main():
         print_start_page(config, logger)
 
         # ==================== 数据准备阶段 ====================
-        logger.info("\n🔹 阶段1/7：数据准备")
+        logger.info("\n🔹🔹 阶段1/7：数据准备")
         blacklist = load_list_file(config.get('BLACKLIST', 'blacklist_path', fallback='config/blacklist.txt'))
         whitelist = load_list_file(config.get('WHITELIST', 'whitelist_path', fallback='config/whitelist.txt'))
         urls = load_urls(config.get('PATHS', 'urls_path', fallback='config/urls.txt'))
@@ -257,7 +259,7 @@ async def main():
         logger.info(f"• 加载订阅源: {len(urls)}个")
 
         # ==================== 订阅源获取阶段 ====================
-        logger.info("\n🔹 阶段2/7：获取订阅源")
+        logger.info("\n🔹🔹 阶段2/7：获取订阅源")
         fetcher = SourceFetcher(
             timeout=config.getfloat('FETCHER', 'timeout', fallback=15),
             concurrency=config.getint('FETCHER', 'concurrency', fallback=5),
@@ -267,20 +269,20 @@ async def main():
         logger.info(f"✅ 获取完成 | 成功: {len(contents)}/{len(urls)}")
 
         # ==================== 频道解析阶段 ====================
-        logger.info("\n🔹 阶段3/7：解析频道")
+        logger.info("\n🔹🔹 阶段3/7：解析频道")
         parser = PlaylistParser(config)
         all_channels = parse_channels(parser, contents, logger)
         unique_sources = len({c.url for c in all_channels})
         logger.info(f"✅ 解析完成 | 总频道: {len(all_channels)} | 唯一源: {unique_sources}")
 
         # ==================== 数据处理阶段 ====================
-        logger.info("\n🔹 阶段4/7：数据处理")
+        logger.info("\n🔹🔹 阶段4/7：数据处理")
         unique_channels = remove_duplicates(all_channels, logger)
         filtered_channels = filter_blacklist(unique_channels, blacklist, logger)
         logger.info(f"✔ 处理完成 | 去重后: {len(unique_channels)} | 过滤后: {len(filtered_channels)}")
 
         # ==================== 智能分类阶段 ====================
-        logger.info("\n🔹 阶段5/7：智能分类")
+        logger.info("\n🔹🔹 阶段5/7：智能分类")
         matcher = AutoCategoryMatcher(
             config.get('PATHS', 'templates_path', fallback='config/templates.txt'),
             config
@@ -290,12 +292,13 @@ async def main():
         logger.info(f"✅ 分类完成 | 已分类: {classified} | 未分类: {len(processed_channels)-classified}")
 
         # ==================== 测速测试阶段 ====================
-        logger.info("\n🔹 阶段6/7：测速测试")
+        logger.info("\n🔹🔹 阶段6/7：测速测试")
         tester = SpeedTester(
             timeout=config.getfloat('TESTER', 'timeout', fallback=10),
             concurrency=config.getint('TESTER', 'concurrency', fallback=8),
             max_attempts=config.getint('TESTER', 'max_attempts', fallback=2),
             min_download_speed=config.getfloat('TESTER', 'min_download_speed', fallback=0.1),
+            enable_logging=config.getboolean('TESTER', 'enable_logging', fallback=False),  # 关键修复点
             config=config
         )
         sorted_channels = matcher.sort_channels_by_template(processed_channels, whitelist)
@@ -304,7 +307,7 @@ async def main():
         logger.info(f"✅ 测速完成 | 在线: {online_count}/{len(sorted_channels)} | 失败: {len(failed_urls)}")
 
         # ==================== 结果导出阶段 ====================
-        logger.info("\n🔹 阶段7/7：结果导出")
+        logger.info("\n🔹🔹 阶段7/7：结果导出")
         exporter = ResultExporter(
             output_dir=config.get('MAIN', 'output_dir', fallback='outputs'),
             template_path=config.get('PATHS', 'templates_path'),
