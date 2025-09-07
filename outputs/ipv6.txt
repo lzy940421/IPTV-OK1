@@ -5,5 +5,5 @@ CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8#http://[2409:8087:1a01:df::4077
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8#http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8#http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8#http://222.169.85.8:9901/tsfile/live/0142_1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
-贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8#http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0#http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/1.m3u8
+河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8#http://222.169.85.8:9901/tsfile/live/0135_1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8
