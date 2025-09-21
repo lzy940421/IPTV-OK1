@@ -6,7 +6,7 @@ from typing import Callable, Optional
 logger = logging.getLogger('core.progress')
 
 class SmartProgress:
-    """智能进度系统（修复版：精确控制+防溢出）"""
+    """智能进度系统（修复版：精确控制+防溢出+改进剩余时间估算）"""
 
     def __init__(self, total: int, description: str = "Processing", min_update_interval: float = 0.5):
         self.total = max(1, total)
@@ -62,7 +62,7 @@ class SmartProgress:
             self._update_interval_counter = 0
 
     def _update_display(self, force: bool = False):
-        """更新进度显示（带强制刷新选项）"""
+        """更新进度显示（改进剩余时间估算）"""
         current_time = time.time()
         
         # 检查最小更新间隔
@@ -72,11 +72,9 @@ class SmartProgress:
         elapsed = max(0.001, current_time - self.start_time)
         self.last_update_time = current_time
         
-        # 计算当前速度（基于上次更新以来的进度）
-        if self.completed > self._completed_at_last_update:
-            items_since_last = self.completed - self._completed_at_last_update
-            time_since_last = current_time - self.last_update_time
-            current_speed = items_since_last / time_since_last if time_since_last > 0 else 0
+        # 计算当前速度（基于总进度）
+        if self.completed > 0 and elapsed > 0:
+            current_speed = self.completed / elapsed
             
             # 更新EWMA平均速度
             if self.avg_speed == 0.0:
@@ -85,22 +83,26 @@ class SmartProgress:
                 self.avg_speed = self.alpha * current_speed + (1 - self.alpha) * self.avg_speed
                 
             self.last_speed = current_speed
-            self._completed_at_last_update = self.completed
         
         # 时间格式化
         elapsed_str = self._format_time(elapsed)
         
-        # 计算剩余时间（防除零）
+        # 计算剩余时间（改进版估算逻辑）
         remaining_str = "计算中..."
         if self.avg_speed > 0 and self.completed < self.total:
+            # 使用EWMA平均速度进行精确估算
             remaining_items = self.total - self.completed
             remaining_time = remaining_items / self.avg_speed
             remaining_str = self._format_time(remaining_time)
         elif self.completed >= self.total:
             remaining_str = "即将完成"
-
-        # 确保百分比在0-100%范围内
-        percent = min(100.0, (self.completed / self.total) * 100) if self.total > 0 else 0
+        else:
+            # 初始阶段使用简单线性估算（至少有1个样本就开始估算）
+            if self.completed > 0:
+                avg_time_per_item = elapsed / self.completed
+                remaining_items = self.total - self.completed
+                remaining_time = remaining_items * avg_time_per_item
+                remaining_str = f"约{self._format_time(remaining_time)}"
         
         # 创建进度条（使用Unicode区块元素）
         bar_length = 30
@@ -114,7 +116,7 @@ class SmartProgress:
         
         # 构建状态信息
         status = (
-            f"\r{self.description} {bar} {percent:.1f}% | "
+            f"\r{self.description} {bar} {self.completed/self.total*100:.1f}% | "
             f"进度: {self.completed}/{self.total} | "
             f"用时: {elapsed_str} | "
             f"预计剩余: {remaining_str}"
