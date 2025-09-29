@@ -1,5 +1,5 @@
-2025-09-28 17:14:24 - root - INFO - ✅ 配置加载完成
-2025-09-28 17:14:24 - root - INFO - 
+2025-09-29 17:17:25 - root - INFO - ✅ 配置加载完成
+2025-09-29 17:17:25 - root - INFO - 
 
    ____   _   _   _       ___   _   _  __  __
   / ___| | \ | | | |     |_ _| | | | | \ \/ /
@@ -9,7 +9,7 @@
     
 ╔══════════════════════════════════════════════════════╗
 ║  IPTV智能处理系统 v1.0.1                                ║
-║  启动时间: 2025-09-28 17:14:24                        ║
+║  启动时间: 2025-09-29 17:17:25                        ║
 ╟──────────────────────────────────────────────────────╢
 ║  处理流程:                                            ║
 ║   1. 获取订阅源 → 2. 解析频道 → 3. 去重              ║
@@ -32,54 +32,54 @@
 ║  • 日志级别: INFO                                          ║
 ╚══════════════════════════════════════════════════════╝
 
-2025-09-28 17:14:24 - root - INFO - 
+2025-09-29 17:17:25 - root - INFO - 
 🔹🔹 阶段1/7：数据准备
-2025-09-28 17:14:24 - root - INFO - • 加载黑名单: 27445条
-2025-09-28 17:14:24 - root - INFO - • 加载白名单: 0条
-2025-09-28 17:14:24 - root - INFO - • 加载订阅源: 71个
-2025-09-28 17:14:24 - root - INFO - 
+2025-09-29 17:17:25 - root - INFO - • 加载黑名单: 27445条
+2025-09-29 17:17:25 - root - INFO - • 加载白名单: 0条
+2025-09-29 17:17:25 - root - INFO - • 加载订阅源: 71个
+2025-09-29 17:17:25 - root - INFO - 
 🔹🔹 阶段2/7：获取订阅源
-2025-09-28 17:14:25 - core.fetcher - WARNING - Attempt 1/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/hd.txt - HTTP status 404
-2025-09-28 17:14:26 - core.fetcher - WARNING - Attempt 1/3 failed: https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt - HTTP status 404
-2025-09-28 17:14:26 - core.fetcher - WARNING - Attempt 1/3 failed: https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u - HTTP status 404
-2025-09-28 17:14:27 - core.fetcher - WARNING - Attempt 1/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt - HTTP status 404
-2025-09-28 17:14:28 - core.fetcher - WARNING - Attempt 1/3 failed: https://live.zhoujie218.top/tv/iptv4.txt - HTTP status 400
-2025-09-28 17:14:28 - core.fetcher - WARNING - Attempt 2/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/hd.txt - HTTP status 404
-2025-09-28 17:14:28 - core.fetcher - WARNING - Attempt 2/3 failed: https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt - HTTP status 404
-2025-09-28 17:14:28 - core.fetcher - WARNING - Attempt 2/3 failed: https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u - HTTP status 404
-2025-09-28 17:14:28 - core.fetcher - WARNING - Attempt 2/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt - HTTP status 404
-2025-09-28 17:14:29 - core.fetcher - WARNING - Attempt 2/3 failed: https://live.zhoujie218.top/tv/iptv4.txt - HTTP status 400
-2025-09-28 17:14:30 - core.fetcher - WARNING - Attempt 3/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/hd.txt - HTTP status 404
-2025-09-28 17:14:30 - core.fetcher - WARNING - Attempt 3/3 failed: https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt - HTTP status 404
-2025-09-28 17:14:30 - core.fetcher - WARNING - Attempt 3/3 failed: https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u - HTTP status 404
-2025-09-28 17:14:30 - core.fetcher - WARNING - Attempt 3/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt - HTTP status 404
-2025-09-28 17:14:31 - core.fetcher - WARNING - Attempt 3/3 failed: https://live.zhoujie218.top/tv/iptv4.txt - HTTP status 400
-2025-09-28 17:14:31 - root - INFO - ✅ 获取完成 | 成功: 63/71
-2025-09-28 17:14:31 - root - INFO - 
+2025-09-29 17:17:26 - core.fetcher - WARNING - Attempt 1/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/hd.txt - HTTP status 404
+2025-09-29 17:17:26 - core.fetcher - WARNING - Attempt 1/3 failed: https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt - HTTP status 404
+2025-09-29 17:17:26 - core.fetcher - WARNING - Attempt 1/3 failed: https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u - HTTP status 404
+2025-09-29 17:17:28 - core.fetcher - WARNING - Attempt 1/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt - HTTP status 404
+2025-09-29 17:17:28 - core.fetcher - WARNING - Attempt 2/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/hd.txt - HTTP status 404
+2025-09-29 17:17:28 - core.fetcher - WARNING - Attempt 2/3 failed: https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt - HTTP status 404
+2025-09-29 17:17:28 - core.fetcher - WARNING - Attempt 2/3 failed: https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u - HTTP status 404
+2025-09-29 17:17:28 - core.fetcher - WARNING - Attempt 1/3 failed: https://live.zhoujie218.top/tv/iptv4.txt - HTTP status 400
+2025-09-29 17:17:29 - core.fetcher - WARNING - Attempt 2/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt - HTTP status 404
+2025-09-29 17:17:30 - core.fetcher - WARNING - Attempt 2/3 failed: https://live.zhoujie218.top/tv/iptv4.txt - HTTP status 400
+2025-09-29 17:17:30 - core.fetcher - WARNING - Attempt 3/3 failed: https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt - HTTP status 404
+2025-09-29 17:17:30 - core.fetcher - WARNING - Attempt 3/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/hd.txt - HTTP status 404
+2025-09-29 17:17:30 - core.fetcher - WARNING - Attempt 3/3 failed: https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u - HTTP status 404
+2025-09-29 17:17:31 - core.fetcher - WARNING - Attempt 3/3 failed: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt - HTTP status 404
+2025-09-29 17:17:32 - core.fetcher - WARNING - Attempt 3/3 failed: https://live.zhoujie218.top/tv/iptv4.txt - HTTP status 400
+2025-09-29 17:17:32 - root - INFO - ✅ 获取完成 | 成功: 63/71
+2025-09-29 17:17:32 - root - INFO - 
 🔹🔹 阶段3/7：解析频道
-2025-09-28 17:14:41 - core.parser - WARNING - URL参数处理失败: http://[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888910/224/3221225701/index.m3u8, 错误: Invalid IPv6 URL
-2025-09-28 17:14:41 - root - INFO - ✅ 解析完成 | 总频道: 779212 | 唯一源: 311387
-2025-09-28 17:14:41 - root - INFO - 
+2025-09-29 17:17:42 - core.parser - WARNING - URL参数处理失败: http://[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888910/224/3221225701/index.m3u8, 错误: Invalid IPv6 URL
+2025-09-29 17:17:42 - root - INFO - ✅ 解析完成 | 总频道: 786206 | 唯一源: 313366
+2025-09-29 17:17:42 - root - INFO - 
 🔹🔹 阶段4/7：数据处理
-2025-09-28 17:37:31 - root - INFO - ✔ 处理完成 | 去重后: 311387 | 过滤后: 278901
-2025-09-28 17:37:31 - root - INFO - 
+2025-09-29 17:43:00 - root - INFO - ✔ 处理完成 | 去重后: 313366 | 过滤后: 280288
+2025-09-29 17:43:00 - root - INFO - 
 🔹🔹 阶段5/7：智能分类
-2025-09-28 17:37:31 - core.matcher - INFO - 分类器初始化完成 | 模板规则: 1495条
-2025-09-28 17:37:34 - root - INFO - ✅ 分类完成 | 已分类: 158447 | 未分类: 120454
-2025-09-28 17:37:34 - root - INFO - 
+2025-09-29 17:43:00 - core.matcher - INFO - 分类器初始化完成 | 模板规则: 1495条
+2025-09-29 17:43:03 - root - INFO - ✅ 分类完成 | 已分类: 158986 | 未分类: 121302
+2025-09-29 17:43:03 - root - INFO - 
 🔹🔹 阶段6/7：测速测试
-2025-09-28 20:45:58 - root - INFO - ✅ 测速完成 | 在线: 7592/278901 | 失败: 0
-2025-09-28 20:45:58 - root - INFO - 
+2025-09-29 20:52:50 - root - INFO - ✅ 测速完成 | 在线: 7018/280288 | 失败: 0
+2025-09-29 20:52:50 - root - INFO - 
 🔹🔹 阶段7/7：结果导出
-2025-09-28 20:45:58 - core.exporter - INFO - 主文件导出完成 | M3U: outputs/all.m3u (3006频道) | TXT: outputs/all.txt (3006频道)
-2025-09-28 20:45:58 - core.exporter - INFO - IPV4频道导出完成 | TXT: ipv4.txt (2998频道) | M3U: ipv4.m3u (2998频道)
-2025-09-28 20:45:58 - core.exporter - INFO - IPV6频道导出完成 | TXT: ipv6.txt (8频道) | M3U: ipv6.m3u (8频道)
-2025-09-28 20:45:59 - core.exporter - INFO - 未分类频道已保存 | 文件: config/uncategorized_channels.txt | 分组数: 202 | 频道数: 120454
-2025-09-28 20:45:59 - root - INFO - 
+2025-09-29 20:52:51 - core.exporter - INFO - 主文件导出完成 | M3U: outputs/all.m3u (2414频道) | TXT: outputs/all.txt (2414频道)
+2025-09-29 20:52:51 - core.exporter - INFO - IPV4频道导出完成 | TXT: ipv4.txt (2406频道) | M3U: ipv4.m3u (2406频道)
+2025-09-29 20:52:51 - core.exporter - INFO - IPV6频道导出完成 | TXT: ipv6.txt (8频道) | M3U: ipv6.m3u (8频道)
+2025-09-29 20:52:51 - core.exporter - INFO - 未分类频道已保存 | 文件: config/uncategorized_channels.txt | 分组数: 208 | 频道数: 121302
+2025-09-29 20:52:51 - root - INFO - 
 ============================================================
-2025-09-28 20:45:59 - root - INFO - 📊 最终统计
-2025-09-28 20:45:59 - root - INFO - • 总处理频道: 278901
-2025-09-28 20:45:59 - root - INFO - • 在线频道: 7592 (成功率: 2.7%)
-2025-09-28 20:45:59 - root - INFO - • 未分类频道: 120454
-2025-09-28 20:45:59 - root - INFO - ============================================================
+2025-09-29 20:52:51 - root - INFO - 📊 最终统计
+2025-09-29 20:52:51 - root - INFO - • 总处理频道: 280288
+2025-09-29 20:52:51 - root - INFO - • 在线频道: 7018 (成功率: 2.5%)
+2025-09-29 20:52:51 - root - INFO - • 未分类频道: 121302
+2025-09-29 20:52:51 - root - INFO - ============================================================
 🎉 任务完成！
