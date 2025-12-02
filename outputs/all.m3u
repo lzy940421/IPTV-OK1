@@ -1,41 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml.gz" catchup="append" catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}"
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV1
-http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV2
-http://pull-skycorp.speedws.com/live/wsDPybYgMuqWqM6kVbNDXxU1hNsNRHYvGhZHFxhSHx8cqakkdgd999.flv
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png",CCTV3
-http://pull-skycorp.speedws.com/live/hbhyTVJFSgCenD0L9fpHmPCFf9duofVKizVpNsNRHY3evb3dZyF.flv
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV4
-http://pull-skycorp.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNsNRHYAG166MYUo9TSyI9UUqn.flv
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV13
-http://pull-skycorp.speedws.com/live/LGir9TM1r4L8cYYb8M6Yfwomw9o9lvl0awONsNRHYLWazSU1kmL.flv
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV14
-http://pull-skycorp.speedws.com/live/pyRhADNsNRHYlBACWdbgXVyOiRupG30JAzROyRtO5gX5E4fZWJ7.flv
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
-http://pull-skycorp.speedws.com/live/gbH4PLQ3sx9tsENsNRHYN0fXCkRq5E1sVCiXPZPoRHSwF6qIbcq.flv
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
-http://pull-skycorp.speedws.com/live/rshHW4V9A5aGocS0bN5foBUP5w0MZNsNRHYVtVE100iJPiMe7rq.flv
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
-http://pull-skycorp.speedws.com/live/1V56OQc2BnpdihCiNtNsNRHYMjyrh2lzJlM47qBfuLGqM2qKrbC.flv
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
-http://pull-skycorp.speedws.com/live/trlXf058oDBEjovR1h5sNsNRHYzksVTZ55YkdEsiVFiGFzpkRsB.flv
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
-http://pull-skycorp.speedws.com/live/Vl8mV4zn76zS5PTDLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
-http://pull-skycorp.speedws.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2QUWosNRHYPOG.flv
 #EXTINF:-1 tvg-name="沧海一声笑傲江湖大海" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%E5%A4%A7%E6%B5%B7.png",沧海一声笑傲江湖大海
 https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1XzdaZEZMdzh2X-ayp-a1t-S4gOWjsOeskeWCsuaxn-a5li5tcDQ/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96.mp4?sign=_VGM-ZM6HP8ySp8W1UBC97iZWdXqCZ0x5Cf0kFA4b5w%3D%3A0
 #EXTINF:-1 tvg-name="西游记" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E6%B8%B8%E8%AE%B0.png",西游记
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
-#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
-http://pull-skycorp.speedws.com/live/b3wPp1TZjbT396pVN8blDBtzjUGla8BCLip9qWHN7Qlptr8KFy.flv
-#EXTINF:-1 tvg-name="中广音乐网" group-title="🎵音乐频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%B9%BF%E9%9F%B3%E4%B9%90%E7%BD%91.png",中广音乐网
-http://stream.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 tvg-name="中广流行网" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%B9%BF%E6%B5%81%E8%A1%8C%E7%BD%91.png",中广流行网
-http://stream.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1 tvg-name="News98新闻台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/News98%E6%96%B0%E9%97%BB%E5%8F%B0.png",News98新闻台
-http://stream.rcs.revma.com/55tyxsy4qtzuv
-#EXTINF:-1 tvg-name="飞碟电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",飞碟电台
-http://stream.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1 tvg-name="Class CNBC" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Class%20CNBC.png",Class CNBC
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
+#EXTINF:-1 tvg-name="美国中文电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%96%87%E7%94%B5%E5%8F%B0.png",美国中文电台
+http://radiokest.serverroom.us:6670/;stream.mp3
