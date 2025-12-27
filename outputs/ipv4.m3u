@@ -1,9 +1,11 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml.gz" catchup="append" catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}"
-#EXTINF:-1 tvg-name="香港卫视" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
-http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd%3A%2F%2Fcctv_p2p_hdxianggangweishi
+#EXTINF:-1 tvg-name="DW News" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW%20News.png",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="沧海一声笑傲江湖大海" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%E5%A4%A7%E6%B5%B7.png",沧海一声笑傲江湖大海
 https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1XzdaZEZMdzh2X-ayp-a1t-S4gOWjsOeskeWCsuaxn-a5li5tcDQ/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96.mp4?sign=_VGM-ZM6HP8ySp8W1UBC97iZWdXqCZ0x5Cf0kFA4b5w%3D%3A0
+#EXTINF:-1 tvg-name="西游记" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E6%B8%B8%E8%AE%B0.png",西游记
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+#EXTINF:-1 tvg-name="美国中文电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%96%87%E7%94%B5%E5%8F%B0.png",美国中文电台
+http://radiokest.serverroom.us:6670/;stream.mp3
 #EXTINF:-1 tvg-name="CNN" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="Class CNBC" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Class%20CNBC.png",Class CNBC
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
