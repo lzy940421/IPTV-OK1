@@ -1,5 +1,63 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml.gz" catchup="append" catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}"
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png",CCTV10
+https://t.freetv.fun/live/cctv-10-1.php
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV13
+https://t.freetv.fun/live/cctv-13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV14
+https://t.freetv.fun/live/cctv14shao-er-1.php
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+https://t.freetv.fun/live/yan-dong-wei-shi-19.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+https://t.freetv.fun/live/nei-meng-gu-wei-shi.php
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+https://t.freetv.fun/live/xi-cang-wei-shi-1.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png",大湾区卫视
+https://t.freetv.fun/live/da-wan-qu-wei-shi-4.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
+https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
 #EXTINF:-1 tvg-name="香港卫视" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd%3A%2F%2Fcctv_p2p_hdxianggangweishi
+#EXTINF:-1 tvg-name="靖天资讯" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%96%E5%A4%A9%E8%B5%84%E8%AE%AF.png",靖天资讯
+https://t.freetv.fun/live/jing-tian-zi-xun-10.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
+https://t.freetv.fun/live/ming-zhu-4.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",CHC家庭影院
+https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
+#EXTINF:-1 tvg-name="靖天戏剧" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7.png",靖天戏剧
+https://t.freetv.fun/live/jing-tian-xi-ju-11.m3u8
 #EXTINF:-1 tvg-name="沧海一声笑傲江湖大海" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%E5%A4%A7%E6%B5%B7.png",沧海一声笑傲江湖大海
 https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1XzdaZEZMdzh2X-ayp-a1t-S4gOWjsOeskeWCsuaxn-a5li5tcDQ/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96.mp4?sign=_VGM-ZM6HP8ySp8W1UBC97iZWdXqCZ0x5Cf0kFA4b5w%3D%3A0
+#EXTINF:-1 tvg-name="西游记" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E6%B8%B8%E8%AE%B0.png",西游记
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-2.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-3.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-24.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-9.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-7.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-12.m3u8
+#EXTINF:-1 tvg-name="广州竞赛" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E5%B7%9E%E7%AB%9E%E8%B5%9B.png",广州竞赛
+https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
+#EXTINF:-1 tvg-name="广州竞赛" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E5%B7%9E%E7%AB%9E%E8%B5%9B.png",广州竞赛
+https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
+#EXTINF:-1 tvg-name="山东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2.png",山东体育
+https://t.freetv.fun/live/shan-dong-ti-yu.m3u8
+#EXTINF:-1 tvg-name="中广音乐网" group-title="🎵音乐频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%B9%BF%E9%9F%B3%E4%B9%90%E7%BD%91.png",中广音乐网
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 tvg-name="中广流行网" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%B9%BF%E6%B5%81%E8%A1%8C%E7%BD%91.png",中广流行网
+http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-name="News98新闻台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/News98%E6%96%B0%E9%97%BB%E5%8F%B0.png",News98新闻台
+http://stream.rcs.revma.com/55tyxsy4qtzuv
+#EXTINF:-1 tvg-name="飞碟电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",飞碟电台
+http://stream.rcs.revma.com/em90w4aeewzuv
