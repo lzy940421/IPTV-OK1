@@ -1,28 +1,9 @@
-央视频道,#genre#
-CCTV5+,https://t.freetv.fun/live/cctv5-plus-3.m3u8
-CCTV10,https://t.freetv.fun/live/cctv-10-1.php
-CCTV11,https://t.freetv.fun/live/cctv11-3.m3u8
-
-卫视频道,#genre#
-湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-9.m3u8
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-22.m3u8
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-10.php
-
 港·澳·台,#genre#
-香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd%3A%2F%2Fcctv_p2p_hdxianggangweishi
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-3.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-24.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-11.m3u8
-广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
-山东体育,https://t.freetv.fun/live/shan-dong-ti-yu.m3u8
+🎬电影频道,#genre#
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 在线广播,#genre#
-美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
