@@ -1,15 +1,53 @@
+央视频道,#genre#
+CCTV1,https://t.freetv.fun/live/cctv1-1.m3u8
+CCTV5+,https://t.freetv.fun/live/cctv5-plus-5.m3u8
+CCTV6,https://t.freetv.fun/live/cctv6-2.m3u8
+CCTV11,https://t.freetv.fun/live/cctv11-3.m3u8
+CCTV17,https://t.freetv.fun/live/cctv17-3.m3u8
+CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
+
 卫视频道,#genre#
-香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd%3A%2F%2Fcctv_p2p_hdxianggangweishi
+东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-gao-qing.m3u8
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
+广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-5.m3u8
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
+山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-9.php
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-11.php
+天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-12.m3u8
+云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
+
+港·澳·台,#genre#
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
+NBA TV,https://t.freetv.fun/live/nba-tv-3.m3u8
+NBA TV,https://t.freetv.fun/live/nba-tv-1.m3u8
 
 🎬电影频道,#genre#
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-9.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-6.m3u8
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.m3u8
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
+CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+
+🏀体育频道,#genre#
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-23.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-24.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-22.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-21.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-23.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-2.m3u8
+广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
 
 🎵音乐频道,#genre#
 中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 
 在线广播,#genre#
 中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+希望之声,http://radio.soundofhope.org:8880/SOH_32K
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
-飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
+CBS 2 Salt Lake City UT (KUTV) (1080p),https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
