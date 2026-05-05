@@ -1,8 +1,26 @@
+央视频道,#genre#
+CCTV11,https://t.freetv.fun/live/cctv11-3.m3u8
+CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
+
+卫视频道,#genre#
+山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-9.php
+
 港·澳·台,#genre#
+纬来体育,http://api.mytv666.top/api/qwt.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 🎬电影频道,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-9.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-6.m3u8
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-3.m3u8
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.m3u8
+CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
+
+🏀体育频道,#genre#
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-15.m3u8
+广东体育,http://api.mytv666.top/api/hk.php?id=3635306561306164626438636438373731346432656366353839663866326232267469643d74762669643d3131
+山东体育,https://t.freetv.fun/live/shan-dong-ti-yu.m3u8
 
 在线广播,#genre#
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
