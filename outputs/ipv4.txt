@@ -1,6 +1,21 @@
+央视频道,#genre#
+CCTV5+,https://t.freetv.fun/live/cctv5-plus-5.m3u8
+CCTV5+,https://t.freetv.fun/live/cctv5-plus.php
+CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
+
 卫视频道,#genre#
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 
+港·澳·台,#genre#
+NBA TV,https://t.freetv.fun/live/nba-tv-3.m3u8
+NBA TV,https://t.freetv.fun/live/nba-tv-2.m3u8
+
 🎬电影频道,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-6.m3u8
+CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
+
+🏀体育频道,#genre#
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-23.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-17.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-15.m3u8
