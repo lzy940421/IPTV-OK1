@@ -1,9 +1,41 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml.gz" catchup="append" catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}"
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png",CCTV5+
+https://tv.cctv.com/live/cctv5plus/
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png",CCTV11
+https://t.freetv.fun/live/cctv11-10.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png",CCTV11
+https://t.freetv.fun/live/cctv11-16.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV14
+https://t.freetv.fun/live/cctv14shao-er-1.m3u8
+#EXTINF:-1 tvg-name="CETV4" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png",CETV4
+https://t.freetv.fun/live/cetv4.m3u8
+#EXTINF:-1 tvg-name="CCTV 9 (576i)" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%209%20%28576i%29.png",CCTV 9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+https://t.freetv.fun/live/yan-dong-wei-shi-5.php
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+https://t.freetv.fun/live/shan-xi-wei-shi-7.m3u8
+#EXTINF:-1 tvg-name="纬来体育" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.png",纬来体育
+http://api.mytv666.top/api/qwt.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2
+#EXTINF:-1 tvg-name="DW News" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW%20News.png",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",CHC动作电影
+https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.m3u8
+#EXTINF:-1 tvg-name="淘电影" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%98%E7%94%B5%E5%BD%B1.png",淘电影
+https://t.freetv.fun/live/tao-dian-ying.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",CHC影迷电影
+https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
 #EXTINF:-1 tvg-name="西游记" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E6%B8%B8%E8%AE%B0.png",西游记
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
-#EXTINF:-1 tvg-name="CNN" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CNN" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 tvg-name="飞碟电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",飞碟电台
-http://stream.rcs.revma.com/em90w4aeewzuv
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+http://api.mytv666.top/api/hk.php?id=3635306561306164626438636438373731346432656366353839663866326232267469643d74762669643d3131
+#EXTINF:-1 tvg-name="风云足球" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png",风云足球
+https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
+#EXTINF:-1 tvg-name="风云足球" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png",风云足球
+https://t.freetv.fun/live/cctv-feng-yun-zu-qiu.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" group-title="🪁动画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
+https://t.freetv.fun/live/dong-man-xiu-chang-4.m3u8
+#EXTINF:-1 tvg-name="炫动卡通" group-title="🪁动画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%82%AB%E5%8A%A8%E5%8D%A1%E9%80%9A.png",炫动卡通
+https://t.freetv.fun/live/ha-ha-xuan-dong-2.m3u8
+#EXTINF:-1 tvg-name="美国中文电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%96%87%E7%94%B5%E5%8F%B0.png",美国中文电台
+http://radiokest.serverroom.us:6670/;stream.mp3
