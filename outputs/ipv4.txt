@@ -1,66 +1,6 @@
 央视频道,#genre#
-CCTV6,https://t.freetv.fun/live/cctv6-2.m3u8
-CCTV10,https://t.freetv.fun/live/cctv-10-2.m3u8
-CCTV11,https://t.freetv.fun/live/cctv11xi-qu.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11.m3u8
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV14,https://t.freetv.fun/live/cctv14-5.m3u8
-CCTV14,https://t.freetv.fun/live/cctv14shao-er.m3u8
-CCTV14,https://t.freetv.fun/live/cctv14shao-er-2.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15yin-le.m3u8
-CCTV15,https://t.freetv.fun/live/cctv-15.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15yin-le-1.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15yin-le-2.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15yin-le-3.m3u8
-CCTV16,https://t.freetv.fun/live/cctv16-2.m3u8
-CCTV16,https://t.freetv.fun/live/cctv16-5.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-2.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-5.m3u8
-CETV2,https://t.freetv.fun/live/cetv2-2.m3u8
-CETV4,https://t.freetv.fun/live/cetv4-2.m3u8
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
-卫视频道,#genre#
-东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-gao-qing.m3u8
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
-深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-19.m3u8
-新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-8.m3u8
-
-港·澳·台,#genre#
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
-TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
-NBA TV (1080p) [Geo blocked],https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-
-🎬电影频道,#genre#
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-9.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-7.m3u8
-淘电影,https://t.freetv.fun/live/tao-dian-ying-1.m3u8
-淘电影,https://t.freetv.fun/live/tao-dian-ying.m3u8
-电影_刘德华,http://al.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv?wsSecret=a881c0a0a9a25574ccf1e0243ae557fd&wsTime=62f3b3aa&u=0&seqid=16600520102554650&ctype=tars_mp&txyp=o%3Az16%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&t=102
-CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-10.m3u8
-湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying.m3u8
-湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying-5.m3u8
-
-🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-23.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-19.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-15.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-28.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-30.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-13.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5-1.m3u8
-广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
-
 在线广播,#genre#
-中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
-中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
