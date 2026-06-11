@@ -1,40 +1,19 @@
 央视频道,#genre#
 CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV14,https://t.freetv.fun/live/cctv14shao-er.m3u8
-CCTV14,https://t.freetv.fun/live/cctv14shao-er-2.m3u8
-CETV4,https://t.freetv.fun/live/cetv4.m3u8
 CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
 卫视频道,#genre#
-湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi.m3u8
-广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-5.php
-深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-19.m3u8
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 
 港·澳·台,#genre#
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-4.php
-TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
-NBA TV,https://t.freetv.fun/live/nba-tv.m3u8
+DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 🎬电影频道,#genre#
-湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying.m3u8
-湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying-1.m3u8
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
-
-🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-21.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-25.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
-
-🎵音乐频道,#genre#
-中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+淘电影,https://t.freetv.fun/live/tao-dian-ying-1.m3u8
 
 在线广播,#genre#
-中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
-希望之声,http://radio.soundofhope.org:8880/SOH_32K
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
-飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
-CBS 2 Salt Lake City UT (KUTV) (1080p),https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
