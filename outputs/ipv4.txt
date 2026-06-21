@@ -1,50 +1,9 @@
 央视频道,#genre#
-CCTV5,https://t.freetv.fun/live/cctv5-plus-8.m3u8
-CCTV5,https://t.freetv.fun/live/cctv5-plus-6.m3u8
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-2.m3u8
-CETV2,https://t.freetv.fun/live/cetv2-6.m3u8
 CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
-卫视频道,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-6.m3u8
-三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-1.m3u8
-
-河北卫视,#genre#
-河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
-
 港·澳·台,#genre#
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-4.php
-凤凰香港,https://t.freetv.fun/live/feng-huang-wei-shi-xiang-gang.m3u8
-TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-4.m3u8
-TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-6.m3u8
-
-🎬电影频道,#genre#
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-7.m3u8
-CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
-CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-6.m3u8
-淘电影,https://t.freetv.fun/live/tao-dian-ying-3.m3u8
-上虞文化影院,https://t.freetv.fun/live/shang-yu-wen-hua-ying-yuan.m3u8
-湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying.m3u8
-湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying-1.m3u8
-绍兴文化影院,https://t.freetv.fun/live/shao-xing-wen-hua-ying-yuan-1.m3u8
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
-
-🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-1-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
-广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
+DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 在线广播,#genre#
-中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
-希望之声,http://radio.soundofhope.org:8880/SOH_32K
-台湾九八新闻台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
-News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
-CBS 2 Salt Lake City UT (KUTV) (1080p),https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
+美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
+飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
