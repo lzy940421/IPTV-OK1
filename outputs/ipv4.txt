@@ -1,9 +1,23 @@
 央视频道,#genre#
+CCTV11,https://t.freetv.fun/live/cctv11-10.m3u8
+CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
+CCTV14,https://t.freetv.fun/live/cctv14shao-er-2.m3u8
+CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
-港·澳·台,#genre#
-DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+卫视频道,#genre#
+广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-15.m3u8
+
+🎬电影频道,#genre#
+淘电影,https://t.freetv.fun/live/tao-dian-ying-1.m3u8
+淘电影,https://t.freetv.fun/live/tao-dian-ying.m3u8
+淘电影,https://t.freetv.fun/live/tao-dian-ying-3.m3u8
+星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
+上虞文化影院,https://t.freetv.fun/live/shang-yu-wen-hua-ying-yuan.m3u8
+CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-7.m3u8
+湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying-1.m3u8
 
 在线广播,#genre#
-美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
-飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+台湾九八新闻台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
+News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
