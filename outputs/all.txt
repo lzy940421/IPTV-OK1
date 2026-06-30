@@ -1,30 +1,20 @@
 央视频道,#genre#
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CETV2,https://t.freetv.fun/live/cetv2-6.m3u8
 CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
 卫视频道,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-9.php
 
 港·澳·台,#genre#
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-🎬电影频道,#genre#
-电影_刘德华,http://al.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv?wsSecret=a881c0a0a9a25574ccf1e0243ae557fd&wsTime=62f3b3aa&u=0&seqid=16600520102554650&ctype=tars_mp&txyp=o%3Az16%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&t=102
-CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-7.m3u8
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
-
 🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-15.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
+广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
 
-🎵音乐频道,#genre#
-中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+🪁动画频道,#genre#
+浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-5.m3u8
 
 在线广播,#genre#
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
-CBS 2 Salt Lake City UT (KUTV) (1080p),https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
-Emisora Comunitaria 104.1 FM,https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https%3A%2F%2Fstreamyes.alsolnet.com%2Fcomunitariafm%2Flive%2Fplaylist.m3u8
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
