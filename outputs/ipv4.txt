@@ -1,28 +1,7 @@
-央视频道,#genre#
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
-CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
-
-卫视频道,#genre#
-青海卫视,https://t.freetv.fun/live/qing-hai-wei-shi-1.m3u8
-三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-8.m3u8
-厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-3.m3u8
-
 港·澳·台,#genre#
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-21.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3-1.m3u8
-广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-4.m3u8
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
-
-🪁动画频道,#genre#
-浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-3.m3u8
-
 在线广播,#genre#
-台湾九八新闻台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
+美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-CBS 2 Salt Lake City UT (KUTV) (1080p),https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
