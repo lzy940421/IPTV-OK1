@@ -1,53 +1,14 @@
-央视频道,#genre#
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV16,https://t.freetv.fun/live/cctv16-5.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-4.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-5.m3u8
-CETV2,https://t.freetv.fun/live/cetv2-6.m3u8
-CETV2,https://t.freetv.fun/live/cetv2-2.m3u8
-CETV4,https://t.freetv.fun/live/cetv4-5.m3u8
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
-CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
-
 卫视频道,#genre#
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-青海卫视,https://t.freetv.fun/live/qing-hai-wei-shi-1.m3u8
-康巴卫视,https://t.freetv.fun/live/kang-ba-wei-shi.m3u8
-厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-6.m3u8
-大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-4.m3u8
 
 港·澳·台,#genre#
-TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 🎬电影频道,#genre#
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-9.m3u8
-星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
-湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying-5.m3u8
-
-🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-21.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-7.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-7-1.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-24.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-27.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-30.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-31.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-25.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-29.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5-1.m3u8
-风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
-魅力足球,https://t.freetv.fun/live/mei-li-zu-qiu-3.php
-
-🪁动画频道,#genre#
-浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-5.m3u8
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 在线广播,#genre#
-中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
-希望之声,http://radio.soundofhope.org:8880/SOH_32K
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
-飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
+ESPN8 The Ocho (1080p),https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
