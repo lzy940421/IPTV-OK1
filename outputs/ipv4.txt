@@ -1,44 +1,45 @@
 央视频道,#genre#
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV16,https://t.freetv.fun/live/cctv16-5.m3u8
+CCTV13,https://t.freetv.fun/live/cctv13-21.m3u8
+CCTV14,https://t.freetv.fun/live/cctv14shao-er.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-6.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-4.m3u8
-CETV2,https://t.freetv.fun/live/cetv2-6.m3u8
+CCTV16,https://t.freetv.fun/live/cctv16.m3u8
 CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
 卫视频道,#genre#
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-1.m3u8
-西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-2.m3u8
+广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-19.m3u8
+广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-8.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
 厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-6.m3u8
 
 港·澳·台,#genre#
+凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 🎬电影频道,#genre#
-CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-10.m3u8
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-23.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-24.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-21.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-19.m3u8
-广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-1.m3u8
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1-1.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4-1.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3-1.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-2.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
+广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
+广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
 风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
-魅力足球,https://t.freetv.fun/live/mei-li-zu-qiu-3.php
 
 🪁动画频道,#genre#
+动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang.m3u8
+动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-1.m3u8
+金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-5.m3u8
 炫动卡通,https://t.freetv.fun/live/ha-ha-xuan-dong-3.m3u8
-浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-5.m3u8
-浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-3.m3u8
+炫动卡通,https://t.freetv.fun/live/ha-ha-xuan-dong-6.m3u8
 
 在线广播,#genre#
-希望之声,http://radio.soundofhope.org:8880/SOH_32K
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
 CBS 2 Salt Lake City UT (KUTV) (1080p),https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
