@@ -1,49 +1,10 @@
 央视频道,#genre#
 CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV16,https://t.freetv.fun/live/cctv16-6.m3u8
-CCTV16,https://t.freetv.fun/live/cctv16.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-1.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-2.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-4.m3u8
-CETV1,https://t.freetv.fun/live/cetv1-5.m3u8
-CETV4,https://t.freetv.fun/live/cetv4-5.m3u8
 CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
 卫视频道,#genre#
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-8.m3u8
-广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-23.m3u8
-广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-5.m3u8
-青海卫视,https://t.freetv.fun/live/qing-hai-wei-shi-1.m3u8
-西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi.m3u8
-新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-1.m3u8
-延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
-大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi.m3u8
+黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
 
 港·澳·台,#genre#
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-
-🎬电影频道,#genre#
-CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-7.m3u8
-湖南电影,https://t.freetv.fun/live/hu-nan-dian-ying.m3u8
-上虞文化影院,https://t.freetv.fun/live/shang-yu-wen-hua-ying-yuan-1.m3u8
-CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
-
-🏀体育频道,#genre#
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-23.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-24.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-24.m3u8
-
-🪁动画频道,#genre#
-动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-3.m3u8
-金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-2.m3u8
-炫动卡通,https://t.freetv.fun/live/ha-ha-xuan-dong-6.m3u8
-浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-5.m3u8
-
-在线广播,#genre#
-News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
-飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
-Emisora Comunitaria 104.1 FM,https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https%3A%2F%2Fstreamyes.alsolnet.com%2Fcomunitariafm%2Flive%2Fplaylist.m3u8
