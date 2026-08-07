@@ -1,5 +1,19 @@
 央视频道,#genre#
 CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
+CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
-港·澳·台,#genre#
-DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+🎬电影频道,#genre#
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+
+🪁动画频道,#genre#
+新动漫,https://tv.iill.top/migu/xdm&token=2276b9830bd9e6d7f4858f72fe6095ad7d4eeb9d25164399bb076f31d3ce364b
+新动漫,https://tv.iill.top/migu/xdm&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
+茶啊二中动画,https://live.iill.top/huya/11213191
+
+🎵音乐频道,#genre#
+音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
+音乐广播,https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
+音乐广播,https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
+音乐广播,https://tv-1.iill.top/fm/552
+音乐石榴音乐,https://live.iill.top/huya/17091681
