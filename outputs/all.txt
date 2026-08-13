@@ -1,7 +1,9 @@
-央视频道,#genre#
-CCTV13,https://t.freetv.fun/live/cctv13-21.m3u8
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
-CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+卫视频道,#genre#
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 
 港·澳·台,#genre#
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+🎬电影频道,#genre#
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
