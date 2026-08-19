@@ -1,12 +1,17 @@
 央视频道,#genre#
 CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
 CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
 卫视频道,#genre#
-山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-8.m3u8
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 
-港·澳·台,#genre#
-DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+🏀体育频道,#genre#
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-16.m3u8
 
 在线广播,#genre#
-美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
+希望之声,http://radio.soundofhope.org:8880/SOH_32K
+飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
+CBS 2 Salt Lake City UT (KUTV) (1080p),https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
+Emisora Comunitaria 104.1 FM,https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https%3A%2F%2Fstreamyes.alsolnet.com%2Fcomunitariafm%2Flive%2Fplaylist.m3u8

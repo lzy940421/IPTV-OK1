@@ -3,9 +3,19 @@
 https://xykt-fix.github.io/play/a02b/index.m3u8
 #EXTINF:-1 tvg-name="CCTV 9 (576i)" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%209%20%28576i%29.png",CCTV 9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
-https://t.freetv.fun/live/shan-dong-wei-shi-8.m3u8
-#EXTINF:-1 tvg-name="DW News" group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW%20News.png",DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="美国中文电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%96%87%E7%94%B5%E5%8F%B0.png",美国中文电台
-http://radiokest.serverroom.us:6670/;stream.mp3
+#EXTINF:-1 tvg-name="CCTV 15 (1080p)" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%2015%20%281080p%29.png",CCTV 15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 tvg-name="广东体育" group-title="🏀体育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-16.m3u8
+#EXTINF:-1 tvg-name="希望之声" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%A3%B0.png",希望之声
+http://radio.soundofhope.org:8880/SOH_32K
+#EXTINF:-1 tvg-name="飞碟电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",飞碟电台
+http://stream.rcs.revma.com/em90w4aeewzuv
+#EXTINF:-1 tvg-name="CBS 2 Salt Lake City UT (KUTV) (1080p)" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBS%202%20Salt%20Lake%20City%20UT%20%28KUTV%29%20%281080p%29.png",CBS 2 Salt Lake City UT (KUTV) (1080p)
+https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Emisora Comunitaria 104.1 FM" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Emisora%20Comunitaria%20104.1%20FM.png",Emisora Comunitaria 104.1 FM
+https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https%3A%2F%2Fstreamyes.alsolnet.com%2Fcomunitariafm%2Flive%2Fplaylist.m3u8
