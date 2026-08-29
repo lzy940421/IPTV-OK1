@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml.gz" catchup="append" catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}"
 #EXTINF:-1 tvg-name="CCTV11" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png",CCTV11
 https://xykt-fix.github.io/play/a02b/index.m3u8
-#EXTINF:-1 tvg-name="CCTV 9 (576i)" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%209%20%28576i%29.png",CCTV 9 (576i)
-https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-name="CCTV 15 (1080p)" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%2015%20%281080p%29.png",CCTV 15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-#EXTINF:-1 tvg-name="电影_刘德华" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E5%BD%B1_%E5%88%98%E5%BE%B7%E5%8D%8E.png",电影_刘德华
-http://al.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv?wsSecret=a881c0a0a9a25574ccf1e0243ae557fd&wsTime=62f3b3aa&u=0&seqid=16600520102554650&ctype=tars_mp&txyp=o%3Az16%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&t=102
-#EXTINF:-1 tvg-name="美国中文电台" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%96%87%E7%94%B5%E5%8F%B0.png",美国中文电台
-http://radiokest.serverroom.us:6670/;stream.mp3
+#EXTINF:-1 tvg-name="经典电影" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png",经典电影
+https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
