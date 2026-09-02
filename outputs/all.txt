@@ -5,3 +5,6 @@ CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 卫视频道,#genre#
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+
+在线广播,#genre#
+美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
