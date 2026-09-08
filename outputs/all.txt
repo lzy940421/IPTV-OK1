@@ -1,2 +1,6 @@
-在线广播,#genre#
-美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
+央视频道,#genre#
+CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
+CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+
+卫视频道,#genre#
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
