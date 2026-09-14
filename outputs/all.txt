@@ -1,10 +1,7 @@
 央视频道,#genre#
-CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789380000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ea93ef6f20a663e4d84e3b3ca28118fd&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
+CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
-🎬电影频道,#genre#
-经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
-
 在线广播,#genre#
-美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
+希望之声,http://radio.soundofhope.org:8880/SOH_32K
+台湾九八新闻台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
