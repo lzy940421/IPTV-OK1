@@ -1,13 +1,2 @@
-央视频道,#genre#
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
-CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
-
 🎬电影频道,#genre#
 经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
-
-🪁动画频道,#genre#
-新动漫,https://tv.iill.top/migu/xdm&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
-
-在线广播,#genre#
-音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
