@@ -1,5 +1,2 @@
 🎬电影频道,#genre#
 经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
-
-在线广播,#genre#
-美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
