@@ -1,5 +1,5 @@
-卫视频道,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+🎬电影频道,#genre#
+贺岁电影,http://live.iill.top/huya.php?id=11601986
 
-在线广播,#genre#
-美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
+🪁动画频道,#genre#
+动漫•1解说,https://live.iill.top/huya/19757963
