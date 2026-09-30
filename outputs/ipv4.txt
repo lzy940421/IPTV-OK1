@@ -1,28 +1,3 @@
-央视频道,#genre#
-CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
-CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
-
 卫视频道,#genre#
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-
-🎬电影频道,#genre#
-止戈电影解说,https://live.iill.top/huya/19863777
-功夫电影,http://live.iill.top/huya.php?id=11352941
-止戈电影「解说」,http://live.iill.top/huya.php?id=19863777
-漫威电影,http://live.iill.top/douyu.php?id=6140589
-电影•3解说,https://live.iill.top/huya/24396428
-王晶电影,http://live.iill.top/huya.php?id=11602058
-
-🪁动画频道,#genre#
-茶啊二中动画,https://live.iill.top/huya/11213191
-
-🎵音乐频道,#genre#
-音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
-音乐广播,https://tv.iill.top/fm/552&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
-音乐广播,https://tv-1.iill.top/fm/552
-音乐速递音乐,https://live.iill.top/huya/19439762
-阅读•学习音乐,https://live.iill.top/huya/21241813
-
-在线广播,#genre#
-美国中文电台,http://radiokest.serverroom.us:6670/;stream.mp3
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
