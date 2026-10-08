@@ -1,6 +1,8 @@
-央视频道,#genre#
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
-CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+🎬电影频道,#genre#
+电影•3解说,https://live.iill.top/huya/24396428
 
-卫视频道,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+🎵音乐频道,#genre#
+治愈•放松音乐,https://live.iill.top/huya/21241811
+
+在线广播,#genre#
+音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
