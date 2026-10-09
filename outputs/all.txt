@@ -1,8 +1,2 @@
-🎬电影频道,#genre#
-电影•3解说,https://live.iill.top/huya/24396428
-
-🎵音乐频道,#genre#
-治愈•放松音乐,https://live.iill.top/huya/21241811
-
-在线广播,#genre#
-音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
+央视频道,#genre#
+CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8

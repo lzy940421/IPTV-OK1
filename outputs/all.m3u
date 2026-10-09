@@ -1,7 +1,3 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml.gz" catchup="append" catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}"
-#EXTINF:-1 tvg-name="电影•3解说" group-title="🎬电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E5%BD%B1%E2%80%A23%E8%A7%A3%E8%AF%B4.png",电影•3解说
-https://live.iill.top/huya/24396428
-#EXTINF:-1 tvg-name="治愈•放松音乐" group-title="🎵音乐频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%BB%E6%84%88%E2%80%A2%E6%94%BE%E6%9D%BE%E9%9F%B3%E4%B9%90.png",治愈•放松音乐
-https://live.iill.top/huya/21241811
-#EXTINF:-1 tvg-name="音乐广播" group-title="在线广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",音乐广播
-https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
+#EXTINF:-1 tvg-name="CCTV 15 (1080p)" group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%2015%20%281080p%29.png",CCTV 15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
