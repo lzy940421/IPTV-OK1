@@ -1,2 +1,0 @@
-央视频道,#genre#
-CCTV 15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
