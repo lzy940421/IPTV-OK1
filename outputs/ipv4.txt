@@ -1,5 +1,5 @@
-🎬电影频道,#genre#
-电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
+央视频道,#genre#
+CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
 
 在线广播,#genre#
-希望之声,http://radio.soundofhope.org:8880/SOH_32K
+台湾九八新闻台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
