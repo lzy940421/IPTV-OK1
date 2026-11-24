@@ -1,12 +1,4 @@
-央视频道,#genre#
-CCTV 9 (576i),https://xykt-fix.github.io/Y77.m3u8
-
-卫视频道,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-
 港·澳·台,#genre#
+TV9 Marathi (1080p),https://amg01106-amg01106c7-amgplt0747.playout.now3.amagi.tv/amg01106c7/hls.m3u8
+ESPN8: The Ocho (1080p),https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 beIN SPORTS XTRA en Espanol (1080p),https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-
-在线广播,#genre#
-希望之声,http://radio.soundofhope.org:8880/SOH_32K
-台湾九八新闻台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
